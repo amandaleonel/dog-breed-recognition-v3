@@ -72,3 +72,9 @@ problema:
 - Qual acurácia do sistema e quais métricas foram utilizadas para verificar a sua qualidade?
 - Como foi definido _unknowns_ no sistema, e como foi feito teste para identificá-los? Quais
 métricas foram utilizadas?
+
+## Solução
+
+Um resumo das soluções pode ser conferido em: **Solução.pdf**
+
+https://github.com/amandaleonel/dog-breed-recognition-v3/blob/main/Solu%C3%A7%C3%A3o.pdf
